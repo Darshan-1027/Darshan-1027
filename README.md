@@ -1,42 +1,62 @@
-Hi there! 👋
+<h1 align="center">Hi 👋, I'm Darshan Prajapati</h1>
+<h3 align="center">Python Django Developer | Data Analyst | Tech Explorer</h3>
 
-About Me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-I am a passionate Web Developer currently pursuing my Bachelor of Computer Applications (BCA),
-now in my final semester. With a strong foundation in web development,
-I am enthusiastic about creating functional and visually appealing web applications.
+---
 
-Skills :
+### 🚀 About Me
 
-Web Development: HTML, CSS, JavaScript, Bootstrap
+- 🎓 I'm a recent **BCA graduate from Gujarat University**
+- 🔧 Passionate about **Web Development** and **Data Analysis**
+- 💼 Built live projects using **Python, Django, REST API, Pandas, Excel, SQL**
+- 🔍 Currently looking for **Internships or Full-Time roles** as a Web Developer or Data Analyst
+- 📫 Reach me at: **darshanpr004@gmail.com**
 
-Programming Languages: Python
+---
 
-Tools & Technologies: PyCharm, APIs
+### 🔨 Tech Stack
 
-Projects :
+- **Languages:** Python, HTML, CSS, JavaScript, SQL  
+- **Frameworks:** Django, Streamlit  
+- **Database:** MySQL, SQLite  
+- **Tools:** GitHub, Excel, PythonAnywhere, Canva  
+- **Data Libraries:** Pandas, Matplotlib
 
-Here are a few of the small projects I’ve worked on:
+---
 
-1) Responsive Portfolio WebsiteA clean and responsive portfolio website built using HTML, CSS, and Bootstrap to showcase my skills and projects.
-2) To-Do List ApplicationA simple yet effective to-do list web app built with JavaScript that allows users to add, edit, and delete tasks.
-3) Weather App A weather application utilizing APIs to fetch and display real-time weather data based on user input.
-4) Student Management SystemA Python-based system to manage student records, including adding, updating, and retrieving information.
+### 📈 Projects
 
-   Connect With Me :
+- 🛍️ [ShopOutfits](https://github.com/Darshan-1027/ShopOutfits) – Clothes rental platform with user and renter dashboards  
+- 💎 [RJ Jewellery](https://github.com/Darshan-1027/Jewellery-Rj) – E-commerce site with admin panel  
+- 🤖 [Jarvis](https://github.com/Darshan-1027/Jarvis) – Mini voice assistant with Python  
+- 📊 [Swiggy Orders Analysis](https://github.com/Darshan-1027/swiggy-food-orders-analysis) – Data dashboard using Streamlit  
+- 📚 [Byju's Student Analysis](https://github.com/Darshan-1027/byjus-student-performance-analysis) – Excel-based student data analytics
 
-GitHub: https://www.github.com/Darshan-1027
+---
 
-LinkedIn: https://www.linkedin.com/in/darshan-prajapati-1105bb321
+### 📊 GitHub Stats
 
-Email: darshanpr004@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan-1027&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darshan-1027&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-  Goals :
+---
 
---> Continue building full-stack web development expertise.
+### 🔗 Connect with Me
 
---> Explore advanced frameworks like React.js and Django.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 📬 Email: **darshanpr004@gmail.com**  
+- 💼 Portfolio: [PythonAnywhere Project](http://darshan2710.pythonanywhere.com/)
 
---> Contribute to open-source projects and collaborate with like-minded developers.
+---
 
-Thanks for visiting my profile! 😊 Feel free to check out my repositories and connect with me for any exciting projects or collaborations.
+> ⭐️ *Let’s build clean, creative, and meaningful code together!*
+
