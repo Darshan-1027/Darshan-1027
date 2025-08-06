@@ -17,7 +17,7 @@
 - 🔧 Passionate about **Web Development** and **Data Analysis**
 - 💼 Built live projects using **Python, Django, REST API, Pandas, Excel, SQL**
 - 🔍 Currently looking for **Internships or Full-Time roles** as a Web Developer or Data Analyst
-- 📫 Reach me at: **darshanpr004@gmail.com**
+- 📫 Reach me at: **darshanpr0004@gmail.com**
 
 ---
 
@@ -54,7 +54,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
 - 📬 Email: **darshanpr004@gmail.com**  
-- 💼 Portfolio: [PythonAnywhere Project](http://darshan2710.pythonanywhere.com/)
+- 💼 Portfolio: (http://darshan000.pythonanywhere.com/)
 
 ---
 
